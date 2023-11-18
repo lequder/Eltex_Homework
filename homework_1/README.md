@@ -1,3 +1,5 @@
+![image](https://github.com/lequder/Eltex_Homework/assets/128475914/41196a18-b0d8-4585-83c5-0c51d162b708)
+
 Задание 1 и 2
 
 ![image](https://github.com/lequder/eltex_homework_1/assets/128475914/ce0ab385-f70e-4b38-b000-b9c14360652d)
