@@ -65,8 +65,7 @@ int main() {
             printf("\nСписок всех записей:");
             printf("\n-----");
             for (int i = 0; i < count; i++) {
-              //if (strlen(caller[i].name) > 0) {
-              if (caller[i].name != '\0') {
+              if (strlen(caller[i].name) > 0) {
                 printf("\nИмя: %s", caller[i].name);
                 printf("\nФамилия: %s", caller[i].second_name);
                 printf("\nТелефон: %s", caller[i].tel);
